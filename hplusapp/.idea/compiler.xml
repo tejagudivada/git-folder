@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Annotation profile for hplusapp" enabled="true">
+        <sourceOutputDir name="target/m2e-wtp/web-resources/META-INF/maven/spring-examples/hplusapp/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/m2e-wtp/web-resources/META-INF/maven/spring-examples/hplusapp/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hplusapp (2)" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hplusapp (1)" />
+      </profile>
+      <profile name="Annotation profile for Unknown" enabled="true">
+        <sourceOutputDir name="../../../../../../generated-sources/annotations" />
+        <sourceTestOutputDir name="../../../../../../generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hplusapp (3)" />
+        <module name="hplusapp (4)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hplusapp (1)" target="1.8" />
+      <module name="hplusapp (2)" target="1.8" />
+      <module name="hplusapp (3)" target="1.5" />
+      <module name="hplusapp (4)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
