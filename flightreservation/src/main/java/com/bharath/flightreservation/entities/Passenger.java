@@ -1,7 +1,7 @@
 package com.bharath.flightreservation.entities;
 
 import javax.persistence.Entity;
-
+//passenger class
 @Entity
 public class Passenger extends AbstractEntity{
 	
